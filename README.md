@@ -16,8 +16,8 @@ Current focus: building Python projects to sharpen my skills.
 
 ## 🛠️ Skills
 - **Programming:** Python  
-- **Artificial Intelligence & Machine Learning:** Basics of ML/AI, building small AI projects  
-- **Tools & Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
+- **AI / ML:** Basics of Machine Learning & AI, small AI projects  
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Scikit-learn  
 
 ---
 
@@ -31,8 +31,11 @@ Current focus: building Python projects to sharpen my skills.
 ---
 
 ## 📊 GitHub Stats
+
 ![Codevid50's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codevid50&show_icons=true&theme=radical&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codevid50&layout=compact&theme=radical)
+
 ---
 
 ## 📫 Connect with Me
