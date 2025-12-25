@@ -30,11 +30,10 @@ Current focus: building Python projects to sharpen my skills.
 
 ---
 
-## 📊 GitHub Stats
-
-![Codevid50's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codevid50&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codevid50&layout=compact&theme=radical)
+## 🚀 Current Focus
+- Building Python projects to strengthen logic
+- Learning automation and real-world scripting
+- Preparing for AI / ML fundamentals
 
 ---
 
